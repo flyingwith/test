@@ -20,4 +20,4 @@ V:X \to \mathbb{R}. \label{eqn:positive_definite_function}\tag{3}
 \end{equation}
 ```
 
-We assume that the system \ref{eqn:state_equation} $\sim$ \ref{eqn:output_equation} is ISS.
+We assume that the system (\ref{eqn:state_equation}) $\sim$ (\ref{eqn:output_equation}) is ISS.
