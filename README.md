@@ -10,6 +10,7 @@ $$
 y &= h(x)
 \end{align}
 $$
+- Align Equations2:
 ```math
 \begin{align}
 \dot{x} &= f(x,u) \\
