@@ -3,7 +3,7 @@ test repository
 
 - Inline Equation: $\dot{x} = f(x)$
 - Align Equations:
-
+aa
 $$
 \begin{align}
 \dot{x} &= f(x,u) \\
