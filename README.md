@@ -10,3 +10,9 @@ $$
 y &= h(x)
 \end{align}
 $$
+```math
+\begin{align}
+\dot{x} &= f(x,u) \\
+y &= h(x)
+\end{align}
+```
