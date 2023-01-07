@@ -12,7 +12,7 @@ $$
 y &= h(x)
 \end{align}
 $$
-  - use ````math`:
+  - use `\`\`\`math`:
 ```math
 \begin{align}
 \dot{x} &= f(x,u) \\
