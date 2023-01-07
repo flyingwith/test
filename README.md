@@ -3,8 +3,15 @@ test repository
 
 - Inline Equation: 
   - use `$`: $\dot{x} = f(x)$
-- Align Equations:
-  - use `$$` (it needs an empty line before `$$`):
+- Align Equations 1:
+```
+$$
+\begin{align}
+\dot{x} &= f(x,u) \\
+y &= h(x)
+\end{align}
+$$
+```
 
 $$
 \begin{align}
@@ -12,7 +19,7 @@ $$
 y &= h(x)
 \end{align}
 $$
-  - use `````math``:
+- Aigne Equations 2:
 ```math
 \begin{align}
 \dot{x} &= f(x,u) \\
